@@ -1,6 +1,6 @@
 # fullcap-site
 
-[Aokumi FullCap](https://chromewebstore.google.com/) の紹介とプライバシー ポリシーを配信する公開サイト（拡張本体の `fullcap` は private）。
+[FullCap](https://chromewebstore.google.com/) の紹介とプライバシー ポリシーを配信する公開サイト（拡張本体の `fullcap` は private）。
 
 - Live: https://fullcap.aokumi.com/
 - Privacy policy: https://fullcap.aokumi.com/privacy/
